@@ -1,6 +1,4 @@
-# Week_06_Assignment
-Module 5: Financial Planning
-# Unit 5 - Financial Planning
+# Financial Planning with Monte Carlo Simulations
 
 ![Financial Planner](Images/financial-planner.png)
 
