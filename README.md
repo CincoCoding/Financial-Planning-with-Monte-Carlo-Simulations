@@ -1,6 +1,6 @@
 # Financial Planning with Monte Carlo Simulations
 
-![image](Resources/Images/financial-planner.png)
+![planner](/Images/financial-planner.png)
 
 ## Financial Planning with Monte Carlo Simulations
 This project aims to provide an overview of a personal finance planner. The project uses data from cryptocurrency and shares to get the value of the user's portfolio. The project also uses Monte Carlo simulations to forecast the future value of the portfolio.
@@ -27,7 +27,7 @@ This section of the project is focused on collecting data on the user's portfoli
 
 ## Part 2 - Monte Carlo Simulations
 This section of the project uses Monte Carlo simulations to forecast the future value of the user's portfolio. The Monte Carlo simulations are performed on the portfolio's assets to determine its future value. The results of the simulations are plotted and displayed for the user to review.
-![image](Resources/Images/monte-carlo.png)
+![monte carlo sim](/Images/monte-carlo.png)
 
 ## How to Run the Project
 To run the project, you must have all the required libraries installed. You will also need to set up a .env file with your Alpaca API key and secret key. Once these requirements are met, run the code in a Jupyter Notebook or in your preferred development environment.
