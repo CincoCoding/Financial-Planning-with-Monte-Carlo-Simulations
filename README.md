@@ -27,6 +27,7 @@ This section of the project is focused on collecting data on the user's portfoli
 
 ## Part 2 - Monte Carlo Simulations
 This section of the project uses Monte Carlo simulations to forecast the future value of the user's portfolio. The Monte Carlo simulations are performed on the portfolio's assets to determine its future value. The results of the simulations are plotted and displayed for the user to review.
+
 ![monte carlo sim](/Images/monte-carlo.png)
 
 ## How to Run the Project
